@@ -1,5 +1,4 @@
-# TIPE DATA SKALAR  = SEDERHANA
-print('\n  TIPE DATA SEDERHANA')
+print('\n  TIPE DATA SEDERHANA') # TIPE DATA SKALAR  = SEDERHANA
 anak1 = 'eko'
 anak2 = 'dwi'
 anak3 = 'joko'
@@ -7,12 +6,12 @@ anak4 = 'tio'
 print(f'hallo {anak1}')
 print(f'hallo {anak2}')
 
-#TIPE DATA  ARRAY
-print('\n ARRAY/LIST')
+
+print('\n ARRAY/LIST') #TIPE DATA  ARRAY
 anak = ['eko', 'dwi', 'joko', 'tio']
 print(anak)
 
-# menambah nilai dalam array
+print('\n MENAMBAH NILAI DALAM ARRAY ')
 anak.append('tika')
 print(anak)
 
